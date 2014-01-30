@@ -31,7 +31,7 @@
                     <a href='http://in.linkedin.com/in/sahebkanodia/' target='_'>LinkedIn</a> accounts.
                 
                 <p>
-                    This site is written in Python / Django and hosted on Heroku. 
+                    This site is written in Python and hosted on Heroku. 
                     The full source is hosted <a href='https://github.com/sahebkanodia/mysite' target='_'>here</a>.
                 </p>
             </div>
